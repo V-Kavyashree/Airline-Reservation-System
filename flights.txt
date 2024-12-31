@@ -1,0 +1,16 @@
+AA101,New York,Los Angeles,300,2451,American Airlines,06:00,09:00,150
+BA202,London,Paris,120,213,British Airways,08:00,10:00,100
+DL303,New York,San Francisco,350,2560,Delta Airlines,07:00,10:30,200
+UA404,Chicago,New York,200,790,United Airlines,09:00,11:00,180
+AF505,Paris,New York,450,3635,Air France,10:00,14:00,75
+AA606,Los Angeles,Chicago,250,1744,American Airlines,12:00,16:00,90
+BA707,Paris,London,180,213,British Airways,14:00,16:00,80
+DL808,New York,Los Angeles,320,2451,Delta Airlines,15:00,18:00,110
+UA909,San Francisco,New York,370,2560,United Airlines,18:00,22:30,95
+BA708,Paris,London,200,213,Air India,09:00,16:00,80
+BA709,Paris,London,190,213,Qatar Airways,16:00,16:00,80
+BA710,Paris,London,150,213,ABC Airlines,01:00,06:00,80
+BA711,Paris,London,160,213,XYZ Airlines,12:00,16:00,80
+BA712,Paris,London,170,213,British Airways,10:00,16:00,80
+CX123,Paris,X,50,100,CityX Airlines,10:00,12:00,150
+CX124,X,London,50,100,CityX Airlines,13:00,15:00,150
